@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.App div{
+  margin: 7px;
+  border: 1px solid aqua;
+  padding: 10px;
+  box-shadow: 2px 5px #888888;
+  cursor: pointer;
+  background-color: aquamarine;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
